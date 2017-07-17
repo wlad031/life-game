@@ -1,9 +1,11 @@
 Conway's Game of Life
 ===================
 
+![preview](http://s011.radikal.ru/i315/1707/75/2111fa807fde.gif | height=256)   
+
 Installation and running
 -------------------------
-
+ 
  - Clone this repository:
 
 ```
