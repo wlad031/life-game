@@ -1,7 +1,7 @@
 Conway's Game of Life
 ===================
 
-![preview](http://s011.radikal.ru/i315/1707/75/2111fa807fde.gif | height=256)   
+<img data-canonical-src="http://s011.radikal.ru/i315/1707/75/2111fa807fde.gif" width="250" height="250" />
 
 Installation and running
 -------------------------
